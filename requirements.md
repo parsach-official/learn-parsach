@@ -1,5 +1,3 @@
-{%set image_dir = "../assets/images/UE5.4/"%}
-
 # Getting started
 
 Please check the requirements and follow the instructions for an easier integration with Parsach.
@@ -18,7 +16,7 @@ This project  contains:
 - A video file
 - A nanite Megascans asset
 
-[Content Example](https://learn.parsach.com/assets/images/UE5.4/plugin_parsachexp.png)
+![Content Example](https://learn.parsach.com/assets/images/UE5.4/plugin_parsachexp.png)
 
 ## Requirements
 
