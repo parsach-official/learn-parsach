@@ -25,16 +25,16 @@ This project  contains:
 - Select Virtual Reality template from the Unreal Project Browser
 - Have all your content inside a Content Plugin called `ParsachExp` 
 
-{{ image(image_dir, "vr_template.png", "VR Template") }}
+![VR Template](https://learn.parsach.com/assets/images/UE5.4/vr_template.png)
 
 
 ### Optional but recommended
 
 - Add `Templates and Feature Packs` to Unreal Engine
 
-{{ image(image_dir, "UE5_install_options.png", "Select Install Options") }}
+![Select Install Options](https://learn.parsach.com/assets/images/UE5.4/UE5_install_options.png)
 
-{{ image(image_dir, "UE5_options_addtemplate.png", "Select Templates and Feature Packs") }}
+![Select Templates and Feature Packs](https://learn.parsach.com/assets/images/UE5.4/UE5_options_addtemplate.png)
 
 
 
