@@ -26,7 +26,6 @@ Make sure the initial part is `./../../` and append your `.uproject` name, for o
 
 ![File Media Source](https://learn.parsach.com/assets/images/UE5.4/add_content/movie_file_media_source.png)
 
-!!! tip
 
     There is a caveat, for it to work both as a pak video and inside unreal editor, make sure your project folder and name fully match, example:
 
