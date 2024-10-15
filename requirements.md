@@ -18,7 +18,7 @@ This project  contains:
 - A video file
 - A nanite Megascans asset
 
-{{ image(image_dir, "plugin_parsachexp.png", "Content Plugin - ParsachExp") }}
+[Content Example](https://learn.parsach.com/assets/images/UE5.4/plugin_parsachexp.png)
 
 ## Requirements
 
