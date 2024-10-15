@@ -24,7 +24,7 @@ You **must convert it** to a **relative path** such as `./../../YourProjectName/
 
 Make sure the initial part is `./../../` and append your `.uproject` name, for our samples it is `Parsach_Template` resulting in `./../../YourProjectName/Plugins/ParsachExp/Content/Movies/samplevideo.mp4`
 
-{{ image(image_dir, "add_content/movie_file_media_source.png", "File Media Source") }}
+![File Media Source](https://learn.parsach.com/assets/images/UE5.4/add_content/movie_file_media_source.png)
 
 !!! tip
 
